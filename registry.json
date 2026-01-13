@@ -8,7 +8,7 @@
         "https://raw.githubusercontent.com/chmod-unsigned/untorrent-data/refs/heads/main/sources/video/movies/2026/sources.json"
       ],
       "type": "official",
-      "public_key": "AAAAC3NzaC1lZDI1NTE5AAAAIGdMPyMjuDCqHsPl24pyRA+fvNRnDBe1v+Od5PdXdQPH"
+      "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGdMPyMjuDCqHsPl24pyRA+fvNRnDBe1v+Od5PdXdQPH"
     },
     {
       "id": "untorrent/video/movies/2025",
@@ -17,7 +17,7 @@
         "https://raw.githubusercontent.com/chmod-unsigned/untorrent-data/refs/heads/main/sources/video/movies/2025/sources.json"
       ],
       "type": "official",
-      "public_key": "AAAAC3NzaC1lZDI1NTE5AAAAIGdMPyMjuDCqHsPl24pyRA+fvNRnDBe1v+Od5PdXdQPH"
+      "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGdMPyMjuDCqHsPl24pyRA+fvNRnDBe1v+Od5PdXdQPH"
     }
   ]
 }
